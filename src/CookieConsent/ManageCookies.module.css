@@ -1,0 +1,38 @@
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 10px 2px;
+  padding-top: 20px;
+
+  .header_row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .option_heading {
+    font-weight: bold;
+    font-size: 16px;
+  }
+}
+
+.cookie_description {
+
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  .actions_accept {
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+  }
+
+  .actions_decline {
+    margin: 0;
+  }
+}

@@ -4,6 +4,8 @@
  - once user's consent is received, those are saved in the browser's cookie & not asked again 
 
 
-## Demo Video 👇
+## Demo Link: https://cookie-banner.surge.sh
+
+### Demo Video 👇
 https://github.com/user-attachments/assets/bcda703b-dc27-4568-9147-b872290597a5
 
